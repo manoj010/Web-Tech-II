@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE student [
+    <!ELEMENT student (name, address, phone, email)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+]>
+
+<student>
+    <name>Manoj Ale</name>
+    <address>Lazimpat, Kathmandu</address>
+    <phone>987456321</phone>
+    <email>manojale@gmail.com</email>
+</student>
