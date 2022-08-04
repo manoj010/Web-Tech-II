@@ -1,0 +1,7 @@
+<!-- <!DOCTYPE student [
+    <!ELEMENT student (name, address, phone, email)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+]> -->

@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
-<!DOCTYPE student [
-    <!ELEMENT student (name, address, phone, email)>
-    <!ELEMENT name (#PCDATA)>
-    <!ELEMENT address (#PCDATA)>
-    <!ELEMENT phone (#PCDATA)>
-    <!ELEMENT email (#PCDATA)>
-]>
+<?xml-stylesheet type='text/xsl' href='first.xsl' ?>
 
 <student>
     <name>Manoj Ale</name>
