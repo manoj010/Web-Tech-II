@@ -1,0 +1,27 @@
+// prime number or not
+
+1) get a number
+2) check how many numbers can divide the given number using loop
+3) declare variable for counting the number of divisors
+4) if count == 2; prime 
+	else; not
+
+
+//factorial using recursion
+
+1) get a number
+2) make a function factorial
+3) if number is equal to 0; return 1
+4) if number is greater than 0; loop the function factorial again and again  ( decrease the number by 1 until 0 )
+5) output the value
+
+
+//swap
+1) get numbers to swap x & y
+2) create a function swap taking two parameters
+3) map the numbers x & y and declare a temp variable
+4) then
+	temp = x;
+	x = y;
+	y = temp;
+5) echo
